@@ -1,44 +1,42 @@
 //
-//  ContentView.swift
-//  Shared
+//  CourseItem.swift
+//  DesignCodeCourse
 //
 //  Created by Ethel S on 11/25/20.
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct CourseItem: View {
+    var course: Course = courses[0]
+    
     var body: some View {
         VStack (alignment: .leading, spacing: 4.0) {
             Spacer()
             HStack{
                 Spacer()
-                Image("Illustration 1")
+                Image(course.image)
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                 Spacer()
             }
-            Text("SwiftUI for iOS 14")
+            Text(course.title)
                 .fontWeight(.bold)
                 .foregroundColor(.white)
-                    
-            Text("20Sections")
+            
+            Text(course.subtitle)
                 .font(.footnote)
                 .foregroundColor(.white)
-            }
-            .padding(.all)
-            .background(Color.blue)
-            .cornerRadius(20.0)
-            .shadow(radius: 10)
         }
+        .padding(.all)
+        .background(course.color)
+        .clipShape(RoundedRectangle(cornerRadius: 22, style: .continuous))
+        .shadow(color: course.color.opacity(0.3), radius: 20, x: 0, y: 10)
+    }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct CourseItem_Previews: PreviewProvider {
     static var previews: some View {
-        Group {
-            ContentView()
-            ContentView()
-                .preferredColorScheme(.dark)
-        }
+        CourseItem()
     }
 }
