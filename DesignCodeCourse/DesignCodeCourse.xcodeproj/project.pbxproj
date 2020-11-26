@@ -15,6 +15,41 @@
 		5339C737256E85600062F983 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5339C735256E85600062F983 /* CourseList.swift */; };
 		53417A90256E786A0031007F /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53417A8F256E786A0031007F /* CoursesView.swift */; };
 		53417A91256E786A0031007F /* CoursesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53417A8F256E786A0031007F /* CoursesView.swift */; };
+		5348859C256F86F200AED1A8 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5348859B256F86F200AED1A8 /* CloseButton.swift */; };
+		5348859D256F86F200AED1A8 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5348859B256F86F200AED1A8 /* CloseButton.swift */; };
+		534885A1256F882100AED1A8 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A0256F882100AED1A8 /* CourseDetail.swift */; };
+		534885A2256F882100AED1A8 /* CourseDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A0256F882100AED1A8 /* CourseDetail.swift */; };
+		534885AC256F897A00AED1A8 /* Livestream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A5256F897A00AED1A8 /* Livestream.swift */; };
+		534885AD256F897A00AED1A8 /* Livestream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A5256F897A00AED1A8 /* Livestream.swift */; };
+		534885AE256F897A00AED1A8 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A6256F897A00AED1A8 /* Tutorial.swift */; };
+		534885AF256F897A00AED1A8 /* Tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A6256F897A00AED1A8 /* Tutorial.swift */; };
+		534885B0256F897A00AED1A8 /* LivestreamSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A7256F897A00AED1A8 /* LivestreamSection.swift */; };
+		534885B1256F897A00AED1A8 /* LivestreamSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A7256F897A00AED1A8 /* LivestreamSection.swift */; };
+		534885B2256F897A00AED1A8 /* GradientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A8256F897A00AED1A8 /* GradientModel.swift */; };
+		534885B3256F897A00AED1A8 /* GradientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A8256F897A00AED1A8 /* GradientModel.swift */; };
+		534885B4256F897A00AED1A8 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A9256F897A00AED1A8 /* Download.swift */; };
+		534885B5256F897A00AED1A8 /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885A9256F897A00AED1A8 /* Download.swift */; };
+		534885B6256F897A00AED1A8 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885AA256F897A00AED1A8 /* CourseSection.swift */; };
+		534885B7256F897A00AED1A8 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885AA256F897A00AED1A8 /* CourseSection.swift */; };
+		534885B8256F897A00AED1A8 /* TutorialSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885AB256F897A00AED1A8 /* TutorialSection.swift */; };
+		534885B9256F897A00AED1A8 /* TutorialSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885AB256F897A00AED1A8 /* TutorialSection.swift */; };
+		534885BD256F8B7100AED1A8 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885BC256F8B7100AED1A8 /* VisualEffectBlur.swift */; };
+		534885C7256F8BA200AED1A8 /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885C6256F8BA200AED1A8 /* VisualEffectBlur.swift */; };
+		534885CB256F90C300AED1A8 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885CA256F90C300AED1A8 /* TabBar.swift */; };
+		534885CF256F951000AED1A8 /* CourseSectionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885CE256F951000AED1A8 /* CourseSectionDetail.swift */; };
+		534885D0256F951000AED1A8 /* CourseSectionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885CE256F951000AED1A8 /* CourseSectionDetail.swift */; };
+		534885D4256F9B2100AED1A8 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885D3256F9B2100AED1A8 /* LibraryContent.swift */; };
+		534885D5256F9B2100AED1A8 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885D3256F9B2100AED1A8 /* LibraryContent.swift */; };
+		534885E0256F9DE100AED1A8 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 534885DF256F9DE100AED1A8 /* WidgetKit.framework */; };
+		534885E2256F9DE100AED1A8 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 534885E1256F9DE100AED1A8 /* SwiftUI.framework */; };
+		534885E5256F9DE100AED1A8 /* DesignCodeWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885E4256F9DE100AED1A8 /* DesignCodeWidget.swift */; };
+		534885E8256F9DE200AED1A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 534885E7256F9DE200AED1A8 /* Assets.xcassets */; };
+		534885EA256F9DE300AED1A8 /* DesignCodeWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 534885E6256F9DE100AED1A8 /* DesignCodeWidget.intentdefinition */; };
+		534885EB256F9DE300AED1A8 /* DesignCodeWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 534885E6256F9DE100AED1A8 /* DesignCodeWidget.intentdefinition */; };
+		534885EE256F9DE300AED1A8 /* DesignCodeWidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 534885DD256F9DE100AED1A8 /* DesignCodeWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		534885F6256FA17700AED1A8 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDDA33256E7364004383E0 /* CourseRow.swift */; };
+		534885FA256FA18F00AED1A8 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534885AA256F897A00AED1A8 /* CourseSection.swift */; };
+		534885FE256FA1B400AED1A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53FDDA12256E30EA004383E0 /* Assets.xcassets */; };
 		53A75150256E918100D0BA53 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A7514F256E918100D0BA53 /* Course.swift */; };
 		53A75151256E918100D0BA53 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A7514F256E918100D0BA53 /* Course.swift */; };
 		53FDDA23256E30EA004383E0 /* DesignCodeCourseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDDA10256E30E9004383E0 /* DesignCodeCourseApp.swift */; };
@@ -27,11 +62,56 @@
 		53FDDA35256E7364004383E0 /* CourseRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FDDA33256E7364004383E0 /* CourseRow.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		534885EC256F9DE300AED1A8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 53FDDA0B256E30E9004383E0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 534885DC256F9DE100AED1A8;
+			remoteInfo = DesignCodeWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		534885F2256F9DE300AED1A8 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				534885EE256F9DE300AED1A8 /* DesignCodeWidgetExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		5339C727256E7C3B0062F983 /* Sidebar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sidebar.swift; sourceTree = "<group>"; };
 		5339C72C256E83A70062F983 /* CourseItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseItem.swift; sourceTree = "<group>"; };
 		5339C735256E85600062F983 /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
 		53417A8F256E786A0031007F /* CoursesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesView.swift; sourceTree = "<group>"; };
+		5348859B256F86F200AED1A8 /* CloseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloseButton.swift; sourceTree = "<group>"; };
+		534885A0256F882100AED1A8 /* CourseDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetail.swift; sourceTree = "<group>"; };
+		534885A5256F897A00AED1A8 /* Livestream.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Livestream.swift; sourceTree = "<group>"; };
+		534885A6256F897A00AED1A8 /* Tutorial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tutorial.swift; sourceTree = "<group>"; };
+		534885A7256F897A00AED1A8 /* LivestreamSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LivestreamSection.swift; sourceTree = "<group>"; };
+		534885A8256F897A00AED1A8 /* GradientModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientModel.swift; sourceTree = "<group>"; };
+		534885A9256F897A00AED1A8 /* Download.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Download.swift; sourceTree = "<group>"; };
+		534885AA256F897A00AED1A8 /* CourseSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
+		534885AB256F897A00AED1A8 /* TutorialSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialSection.swift; sourceTree = "<group>"; };
+		534885BC256F8B7100AED1A8 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		534885C6256F8BA200AED1A8 /* VisualEffectBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		534885CA256F90C300AED1A8 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		534885CE256F951000AED1A8 /* CourseSectionDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSectionDetail.swift; sourceTree = "<group>"; };
+		534885D3256F9B2100AED1A8 /* LibraryContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryContent.swift; sourceTree = "<group>"; };
+		534885DD256F9DE100AED1A8 /* DesignCodeWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = DesignCodeWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		534885DF256F9DE100AED1A8 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		534885E1256F9DE100AED1A8 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		534885E4256F9DE100AED1A8 /* DesignCodeWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeWidget.swift; sourceTree = "<group>"; };
+		534885E6256F9DE100AED1A8 /* DesignCodeWidget.intentdefinition */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; path = DesignCodeWidget.intentdefinition; sourceTree = "<group>"; };
+		534885E7256F9DE200AED1A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		534885E9256F9DE300AED1A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53A7514F256E918100D0BA53 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		53FDDA10256E30E9004383E0 /* DesignCodeCourseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeCourseApp.swift; sourceTree = "<group>"; };
 		53FDDA11256E30E9004383E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +125,15 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		534885DA256F9DE100AED1A8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				534885E2256F9DE100AED1A8 /* SwiftUI.framework in Frameworks */,
+				534885E0256F9DE100AED1A8 /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		53FDDA14256E30EA004383E0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -66,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				53FDDA11256E30E9004383E0 /* ContentView.swift */,
+				534885CA256F90C300AED1A8 /* TabBar.swift */,
 				5339C727256E7C3B0062F983 /* Sidebar.swift */,
 			);
 			path = Navigation;
@@ -80,10 +170,46 @@
 			path = Items;
 			sourceTree = "<group>";
 		};
+		534885D8256F9D8900AED1A8 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				5348859B256F86F200AED1A8 /* CloseButton.swift */,
+				534885D3256F9B2100AED1A8 /* LibraryContent.swift */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+		534885DE256F9DE100AED1A8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				534885DF256F9DE100AED1A8 /* WidgetKit.framework */,
+				534885E1256F9DE100AED1A8 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		534885E3256F9DE100AED1A8 /* DesignCodeWidget */ = {
+			isa = PBXGroup;
+			children = (
+				534885E4256F9DE100AED1A8 /* DesignCodeWidget.swift */,
+				534885E6256F9DE100AED1A8 /* DesignCodeWidget.intentdefinition */,
+				534885E7256F9DE200AED1A8 /* Assets.xcassets */,
+				534885E9256F9DE300AED1A8 /* Info.plist */,
+			);
+			path = DesignCodeWidget;
+			sourceTree = "<group>";
+		};
 		53A75158256E94D900D0BA53 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				53A7514F256E918100D0BA53 /* Course.swift */,
+				534885AA256F897A00AED1A8 /* CourseSection.swift */,
+				534885A9256F897A00AED1A8 /* Download.swift */,
+				534885A8256F897A00AED1A8 /* GradientModel.swift */,
+				534885A5256F897A00AED1A8 /* Livestream.swift */,
+				534885A7256F897A00AED1A8 /* LivestreamSection.swift */,
+				534885A6256F897A00AED1A8 /* Tutorial.swift */,
+				534885AB256F897A00AED1A8 /* TutorialSection.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -94,6 +220,8 @@
 				53FDDA0F256E30E9004383E0 /* Shared */,
 				53FDDA19256E30EA004383E0 /* iOS */,
 				53FDDA20256E30EA004383E0 /* macOS */,
+				534885E3256F9DE100AED1A8 /* DesignCodeWidget */,
+				534885DE256F9DE100AED1A8 /* Frameworks */,
 				53FDDA18256E30EA004383E0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -105,7 +233,10 @@
 				5339C731256E849E0062F983 /* Navigation */,
 				53A75158256E94D900D0BA53 /* Model */,
 				5339C732256E84BF0062F983 /* Items */,
+				534885D8256F9D8900AED1A8 /* Library */,
 				53417A8F256E786A0031007F /* CoursesView.swift */,
+				534885A0256F882100AED1A8 /* CourseDetail.swift */,
+				534885CE256F951000AED1A8 /* CourseSectionDetail.swift */,
 				5339C735256E85600062F983 /* CourseList.swift */,
 				53FDDA12256E30EA004383E0 /* Assets.xcassets */,
 			);
@@ -117,6 +248,7 @@
 			children = (
 				53FDDA17256E30EA004383E0 /* DesignCodeCourse.app */,
 				53FDDA1F256E30EA004383E0 /* DesignCodeCourse.app */,
+				534885DD256F9DE100AED1A8 /* DesignCodeWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,6 +256,7 @@
 		53FDDA19256E30EA004383E0 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
+				534885BC256F8B7100AED1A8 /* VisualEffectBlur.swift */,
 				53FDDA1A256E30EA004383E0 /* Info.plist */,
 			);
 			path = iOS;
@@ -132,6 +265,7 @@
 		53FDDA20256E30EA004383E0 /* macOS */ = {
 			isa = PBXGroup;
 			children = (
+				534885C6256F8BA200AED1A8 /* VisualEffectBlur.swift */,
 				53FDDA21256E30EA004383E0 /* Info.plist */,
 				53FDDA22256E30EA004383E0 /* macOS.entitlements */,
 			);
@@ -141,6 +275,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		534885DC256F9DE100AED1A8 /* DesignCodeWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 534885EF256F9DE300AED1A8 /* Build configuration list for PBXNativeTarget "DesignCodeWidgetExtension" */;
+			buildPhases = (
+				534885D9256F9DE100AED1A8 /* Sources */,
+				534885DA256F9DE100AED1A8 /* Frameworks */,
+				534885DB256F9DE100AED1A8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DesignCodeWidgetExtension;
+			productName = DesignCodeWidgetExtension;
+			productReference = 534885DD256F9DE100AED1A8 /* DesignCodeWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		53FDDA16256E30EA004383E0 /* DesignCodeCourse (iOS) */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 53FDDA2B256E30EA004383E0 /* Build configuration list for PBXNativeTarget "DesignCodeCourse (iOS)" */;
@@ -148,10 +299,12 @@
 				53FDDA13256E30EA004383E0 /* Sources */,
 				53FDDA14256E30EA004383E0 /* Frameworks */,
 				53FDDA15256E30EA004383E0 /* Resources */,
+				534885F2256F9DE300AED1A8 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				534885ED256F9DE300AED1A8 /* PBXTargetDependency */,
 			);
 			name = "DesignCodeCourse (iOS)";
 			productName = "DesignCodeCourse (iOS)";
@@ -184,6 +337,9 @@
 				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1230;
 				TargetAttributes = {
+					534885DC256F9DE100AED1A8 = {
+						CreatedOnToolsVersion = 12.3;
+					};
 					53FDDA16256E30EA004383E0 = {
 						CreatedOnToolsVersion = 12.3;
 					};
@@ -207,11 +363,21 @@
 			targets = (
 				53FDDA16256E30EA004383E0 /* DesignCodeCourse (iOS) */,
 				53FDDA1E256E30EA004383E0 /* DesignCodeCourse (macOS) */,
+				534885DC256F9DE100AED1A8 /* DesignCodeWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		534885DB256F9DE100AED1A8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				534885FE256FA1B400AED1A8 /* Assets.xcassets in Resources */,
+				534885E8256F9DE200AED1A8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		53FDDA15256E30EA004383E0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -231,17 +397,42 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		534885D9256F9DE100AED1A8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				534885FA256FA18F00AED1A8 /* CourseSection.swift in Sources */,
+				534885E5256F9DE100AED1A8 /* DesignCodeWidget.swift in Sources */,
+				534885F6256FA17700AED1A8 /* CourseRow.swift in Sources */,
+				534885EA256F9DE300AED1A8 /* DesignCodeWidget.intentdefinition in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		53FDDA13256E30EA004383E0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				53A75150256E918100D0BA53 /* Course.swift in Sources */,
+				534885CF256F951000AED1A8 /* CourseSectionDetail.swift in Sources */,
+				534885AE256F897A00AED1A8 /* Tutorial.swift in Sources */,
+				534885CB256F90C300AED1A8 /* TabBar.swift in Sources */,
 				5339C728256E7C3B0062F983 /* Sidebar.swift in Sources */,
+				534885B2256F897A00AED1A8 /* GradientModel.swift in Sources */,
+				534885B6256F897A00AED1A8 /* CourseSection.swift in Sources */,
 				5339C72D256E83A70062F983 /* CourseItem.swift in Sources */,
+				534885A1256F882100AED1A8 /* CourseDetail.swift in Sources */,
+				5348859C256F86F200AED1A8 /* CloseButton.swift in Sources */,
+				534885B0256F897A00AED1A8 /* LivestreamSection.swift in Sources */,
 				53FDDA25256E30EA004383E0 /* ContentView.swift in Sources */,
+				534885B4256F897A00AED1A8 /* Download.swift in Sources */,
+				534885AC256F897A00AED1A8 /* Livestream.swift in Sources */,
 				53FDDA34256E7364004383E0 /* CourseRow.swift in Sources */,
+				534885EB256F9DE300AED1A8 /* DesignCodeWidget.intentdefinition in Sources */,
 				53FDDA23256E30EA004383E0 /* DesignCodeCourseApp.swift in Sources */,
+				534885B8256F897A00AED1A8 /* TutorialSection.swift in Sources */,
+				534885BD256F8B7100AED1A8 /* VisualEffectBlur.swift in Sources */,
 				53417A90256E786A0031007F /* CoursesView.swift in Sources */,
+				534885D4256F9B2100AED1A8 /* LibraryContent.swift in Sources */,
 				5339C736256E85600062F983 /* CourseList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,19 +442,86 @@
 			buildActionMask = 2147483647;
 			files = (
 				53A75151256E918100D0BA53 /* Course.swift in Sources */,
+				534885AF256F897A00AED1A8 /* Tutorial.swift in Sources */,
 				5339C729256E7C3B0062F983 /* Sidebar.swift in Sources */,
+				534885B3256F897A00AED1A8 /* GradientModel.swift in Sources */,
+				534885B7256F897A00AED1A8 /* CourseSection.swift in Sources */,
 				5339C72E256E83A70062F983 /* CourseItem.swift in Sources */,
+				534885A2256F882100AED1A8 /* CourseDetail.swift in Sources */,
+				5348859D256F86F200AED1A8 /* CloseButton.swift in Sources */,
+				534885D0256F951000AED1A8 /* CourseSectionDetail.swift in Sources */,
+				534885B1256F897A00AED1A8 /* LivestreamSection.swift in Sources */,
 				53FDDA26256E30EA004383E0 /* ContentView.swift in Sources */,
+				534885B5256F897A00AED1A8 /* Download.swift in Sources */,
+				534885AD256F897A00AED1A8 /* Livestream.swift in Sources */,
 				53FDDA35256E7364004383E0 /* CourseRow.swift in Sources */,
 				53FDDA24256E30EA004383E0 /* DesignCodeCourseApp.swift in Sources */,
+				534885B9256F897A00AED1A8 /* TutorialSection.swift in Sources */,
+				534885C7256F8BA200AED1A8 /* VisualEffectBlur.swift in Sources */,
 				53417A91256E786A0031007F /* CoursesView.swift in Sources */,
 				5339C737256E85600062F983 /* CourseList.swift in Sources */,
+				534885D5256F9B2100AED1A8 /* LibraryContent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		534885ED256F9DE300AED1A8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 534885DC256F9DE100AED1A8 /* DesignCodeWidgetExtension */;
+			targetProxy = 534885EC256F9DE300AED1A8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		534885F0256F9DE300AED1A8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YJFA8L9DHT;
+				INFOPLIST_FILE = DesignCodeWidget/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = stu.scu.edu.cn.DesignCodeCourse.DesignCodeWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		534885F1256F9DE300AED1A8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YJFA8L9DHT;
+				INFOPLIST_FILE = DesignCodeWidget/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = stu.scu.edu.cn.DesignCodeCourse.DesignCodeWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 		53FDDA29256E30EA004383E0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -297,6 +555,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -356,6 +615,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -378,6 +638,7 @@
 		53FDDA2C256E30EA004383E0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -400,6 +661,7 @@
 		53FDDA2D256E30EA004383E0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
@@ -471,6 +733,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		534885EF256F9DE300AED1A8 /* Build configuration list for PBXNativeTarget "DesignCodeWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				534885F0256F9DE300AED1A8 /* Debug */,
+				534885F1256F9DE300AED1A8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		53FDDA0E256E30E9004383E0 /* Build configuration list for PBXProject "DesignCodeCourse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
